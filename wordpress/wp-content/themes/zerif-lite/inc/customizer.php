@@ -416,7 +416,7 @@ function zerif_customize_register( $wp_customize ) {
 		)
 	);
 	/* title */
-	$wp_customize->add_setting( 'zerif_bigtitle_title', array('sanitize_callback' => 'zerif_sanitize_text','default' => __('ONE OF THE TOP 10 MOST POPULAR THEMES ON WORDPRESS.ORG','zerif-lite')));
+	$wp_customize->add_setting( 'zerif_bigtitle_title', array('sanitize_callback' => 'zerif_sanitize_text','default' => __('HOUSTON TOURS','zerif-lite')));
 	$wp_customize->add_control( 'zerif_bigtitle_title', array(
 			'label'    => __( 'Title', 'zerif-lite' ),
 	      	'section'  => 'zerif_bigtitle_section',

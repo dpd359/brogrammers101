@@ -688,7 +688,7 @@ msgstr "Ascunde sectiunea Titlul principal?"
 
 #: inc/customizer.php:419
 #: sections/big_title.php:1
-msgid "ONE OF THE TOP 10 MOST POPULAR THEMES ON WORDPRESS.ORG"
+msgid "HOUSTON TOURS"
 msgstr "UNA DIN PRIMELE 10 CELE MAI POPULARE TEME PE WORDPRESS.ORG"
 
 #: inc/customizer.php:427
